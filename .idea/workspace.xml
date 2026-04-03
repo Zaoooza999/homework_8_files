@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d0a7147-5329-4060-9888-8b22e7106dd2" name="Changes" comment="Create homework_8_files">
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/homework/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/homework/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/homework/model/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/homework/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/homework/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/model/Glossary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/model/GlossaryForJackson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/model/GlossaryInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/model/GlossaryInnerForJackson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/glossary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/goodbyedpi.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/zip.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SelenideFilesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/SelenideFilesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/FilesParsingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/FilesParsingTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="homework_8_files" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zaoooza999&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zaoooza999/homework_8_files.git&quot;,
+    &quot;accountId&quot;: &quot;38e44a45-fcb8-49d8-8b92-f2132ea019a9&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35po7MIswlGMGq3NYKJwCmOJs9S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build homework_8_files.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.csvFileParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.jsonFileParsingImprovedTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.jsonFileParsingImprovedTestWithJackson.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.jsonFileParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.jsonFileParsingTestWithJackson.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.pdfFileParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.xlsParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTest.zipFileParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homework.csvInZipShouldHaveCertainText.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homework.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homework.filesInZip.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homework.orderJsonContainsCorrectValues.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homework.pdfInZipShouldHaveCertainText.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homework.xlsInZipShouldHaveCertainValue.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SelenideFilesTest.downloadFileTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SelenideFilesTest.downloadFileTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SelenideFilesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SelenideFilesTest.uploadFileTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SelenideFilesTest.uploadFileTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.homework_8_files [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Max/IdeaProjects/homework_8_files/src/test/resources&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Max/IdeaProjects/homework_8_files/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\IdeaProjects\homework_8_files\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\IdeaProjects\homework_8_files\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Homework">
+    <configuration name="FilesParsingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.FilesParsingTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="FilesParsingTest.csvFileParsingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.FilesParsingTest.csvFileParsingTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Homework" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.homework.Homework&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Homework.csvInZipShouldHaveCertainText" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.homework.Homework.csvInZipShouldHaveCertainText&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Homework.xlsInZipShouldHaveCertainValue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.homework.Homework.xlsInZipShouldHaveCertainValue&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Homework" />
+        <item itemvalue="Gradle.FilesParsingTest" />
+        <item itemvalue="Gradle.Homework.csvInZipShouldHaveCertainText" />
+        <item itemvalue="Gradle.FilesParsingTest.csvFileParsingTest" />
+        <item itemvalue="Gradle.Homework.xlsInZipShouldHaveCertainValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0a7147-5329-4060-9888-8b22e7106dd2" name="Changes" comment="" />
+      <created>1763816214792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763816214792</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create homework_8_files">
+      <option name="closed" value="true" />
+      <created>1765465843309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765465843309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create homework_8_files">
+      <option name="closed" value="true" />
+      <created>1774174057314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774174057314</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create homework_8_files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create homework_8_files" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="pdf.numberOfPages" language="JAVA" />
+        <watch expression="xls.excel.getSheetAt(0).getRow(1).getCell(4).getStringCellValue()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
